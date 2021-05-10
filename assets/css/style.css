@@ -21,6 +21,11 @@
 }
 
 @font-face {
+    font-family: Raleway-ExtraLight;
+    src: url("webfonts/raleway/static/Raleway-ExtraLight.ttf");
+}
+
+@font-face {
     font-family: Montserrat-Regular;
     src: url("webfonts/montserrat/Montserrat-Regular.ttf");
 }
@@ -436,7 +441,7 @@ body {
 }
 
 .custom-button-portfolio {
-    font-family: Raleway-Regular, serif;
+    font-family: Montserrat-Regular, serif;
     font-size: 18px;
     height: 50px;
     width: 170px;
@@ -444,6 +449,17 @@ body {
     background-color: #ff214f;
     color: #f9f9f9;
 }
+
+.custom-button-portfolio:hover {
+    font-family: Montserrat-Regular, serif;
+    font-size: 18px;
+    height: 50px;
+    width: 170px;
+    border-radius: unset;
+    background-color: #ce0936;
+    color: #f9f9f9;
+}
+
 
 .nav-link.color-white {
     color: #f9f9f9;
@@ -556,3 +572,36 @@ body {
     }
 }
 /* Blog section style end */
+
+/* Contact Us section style start */
+.input-contact {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #15233a;
+    background-color: #0A121F;
+    border-radius: unset;
+}
+.input-contact:focus {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #f40f3f;
+    background-color: #0A121F;
+    border-radius: unset;
+    box-shadow: unset;
+}
+
+.contact-us-description{
+    font-family: Raleway-Medium, serif;
+    font-size: 16px;
+}
+
+.contact-us-number{
+    font-family: Raleway-ExtraBold, serif;
+    font-size: 24px;
+}
+/* Contact Us section style end */
+
+.footer-text{
+    font-family: Raleway-ExtraLight, serif;
+    font-size: 18px;
+}

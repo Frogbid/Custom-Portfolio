@@ -1,0 +1,25 @@
+Raleway ExtraBold 250px
+Raleway ExtraBold 100px
+Raleway SemiBold 40px
+Raleway SemiBold 30px
+Raleway ExtraBold 24px
+Raleway SemiBold 24px
+Raleway Regular 24px
+Raleway Medium 24px
+Raleway Regular 20px
+Raleway SemiBold 18px
+Raleway Regular 18px
+Raleway Medium 18px
+Raleway ExtraLight 18px
+Raleway SemiBold 16px
+Raleway Medium 16px
+Montserrat Regular 16px
+Montserrat Regular 14px
+Myriad Pro Regular 14px
+
+primary color #ff214f
+secondary color #f9f9f9
+grey color #15233a
+black color #0b1423
+
+
